@@ -1,0 +1,1 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+I+am+Anele+Sibiya+%F0%9F%98%80" alt="Typing SVG" /></a>
